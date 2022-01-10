@@ -1,6 +1,8 @@
 #Ignore anything that isn't just python.
 .vs/
-3.10/
+__pycache__/
+3.10.1/
 env/
 Panormus.sln
 Panormus.pyproj
+*.exe
