@@ -1,0 +1,6 @@
+#Ignore anything that isn't just python.
+.vs/
+3.10/
+env/
+Panormus.sln
+Panormus.pyproj
