@@ -2,7 +2,8 @@
 ## Panormus is a very simple, open source, encrypted text editor.
 
 ### Installation
-It's simple to install. Once downloaded, simply navigate inside the Panormus folder and install from the requirements.
+If you want or have to use python instead of the exe, it's simple to install.
+Once downloaded, simply navigate inside the Panormus folder and install from the requirements.
 `pip install -r requirements.txt`
 
 ### Usage
